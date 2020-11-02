@@ -1,5 +1,9 @@
 # 在图片中藏匿日记
 
+## 来源
+来源哔哩哔哩[我是炬峰](https://space.bilibili.com/7848412)的视频：
+[隐写术：把秘密藏在照片里](https://www.bilibili.com/video/BV1dv411k76P)
+
 ## 编程环境
 vs2019 + opencv4.5
 
